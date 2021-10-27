@@ -1,0 +1,9 @@
+span.emph { font-style: italic }
+img { padding:5px }
+.listthing { font-weight: bold; padding-right: 12px }
+li { padding:5px }
+
+body {
+    font-family: 'Nobile', serif;
+    font-size: 19px;
+}
